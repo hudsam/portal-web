@@ -1,3 +1,11 @@
-/assets/vendor/bootstrap/*
-/assets/vendor/php-email-form/*
-/assets/vendor/sweetalert_2/*
+#MacOS Env.
+.DS_Store
+._*
+
+#Linux Env.
+*~
+
+#Windows Env.
+[Dd]esktop.ini
+*.db
+*.lnk
