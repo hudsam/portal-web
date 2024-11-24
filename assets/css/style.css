@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/IMG_20160926_142739_Burst03.jpg") top right no-repeat;
+  background: #040404 url("https://assets.hudsam.xyz/hudsam-xyz/IMG_20160926_142739_Burst03.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
