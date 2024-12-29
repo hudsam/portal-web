@@ -195,6 +195,7 @@ function clickNS(e) {if
 })(jQuery);
 
 $(document).ready(function() {
+  document.getElementById('tagar').classList.remove('d-block');
   $('[data-toggle="tooltip"]').tooltip();
 
   // Calculate Age Dynamic
